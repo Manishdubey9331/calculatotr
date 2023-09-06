@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#main{
+    height: 33rem;
+    width: 28%;
+    margin: auto;
+    margin-top: 3rem;
+    background-color: rgb(17, 4, 46);
+    padding: 1rem;
+    
+  
+}
+#box{
+    height:3.5rem ;
+    width:95%;
+    margin: auto;
+    background-color: #c91313;
+
+}
+#inputbox{
+    word-wrap: break-word;
+    height:4rem ;
+    width:100%;
+    margin: auto;
+    position: relative;
+    text-align: right;
+    font-size: 1.5rem;
+   
+    
+}
+#butn{
+    
+    height:25rem ;
+    width: 95%;
+    margin: auto;
+    background-color: rgb(185, 185, 196);
+    margin-top:1.5rem ; 
+    padding-top: 1rem;
+    
+}
+.A{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.button{
+    margin: 0.5rem;
+    margin-bottom: none;
+    font-size: 1.8rem;
+    padding: 1.5rem;
+    cursor: pointer;
+    background-color: blanchedalmond;
+    border-radius: 20%;
+}
+.button:hover{
+    background-color: rgb(246, 200, 131);
+}
+
